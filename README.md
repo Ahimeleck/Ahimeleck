@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahimelek
 
-<!--
-**Ahimeleck/Ahimeleck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Industrial Engineer focused on **Data Engineering** and **Data Analysis**.  
+I design automation flows, dashboards, and ETL pipelines to optimize business processes and decision-making.  
+Currently working on real-world projects that combine Python, SQL, Power BI, and cloud-based automation.  
+I enjoy bringing creativity into data — turning raw numbers into clear, meaningful stories.
 
-Here are some ideas to get you started:
+## Tech Stack
+-  Python (Pandas, NumPy, Matplotlib)  
+-  SQL (PostgreSQL, SQL Server)  
+-  Power BI (DAX, dashboards)  
+-  Power Automate, Google Workspace triggers  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+-  Training for an Ironman — endurance mode ON  
+-  Chess enthusiast — strategy inspires how I solve problems  
+
+## Contact
+- Email: **ahimelecgomez@gmail.com**  
+- LinkedIn: [linkedin.com/in/ahimelec-g-b54567291](https://linkedin.com/in/ahimelec-g-b54567291)  
