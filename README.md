@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahimelek
+# 🤘🏻 Hi, I'm Ahimelek
 
 ## About Me
 Industrial Engineer focused on **Data Engineering** and **Data Analysis**.  
