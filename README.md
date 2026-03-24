@@ -1,16 +1,21 @@
 # 🤘🏻 Hi, I'm Ahimelek
 
 ## About Me
-Industrial Engineer focused on **Data Engineering** and **Data Analysis**.  
-I design automation flows, dashboards, and ETL pipelines to optimize business processes and decision-making.  
-Currently working on real-world projects that combine Python, SQL, Power BI, and cloud-based automation.  
-I enjoy bringing creativity into data — turning raw numbers into clear, meaningful stories.
+Data Engineer focused on building automated data infrastructure and analytics systems.
 
 ## Tech Stack
--  Python (Pandas, NumPy, Matplotlib)  
--  SQL (PostgreSQL, SQL Server)  
--  Power BI (DAX, dashboards)  
--  Power Automate, Google Workspace triggers  
+
+**Data Engineering**
+Python · REST APIs · Google BigQuery · GitHub Actions · ETL Pipelines · OAuth 2.0
+
+**Analytics & BI**  
+SQL · Tableau · Looker Studio · Power BI · DAX
+
+**Databases**
+PostgreSQL · SQL Server
+
+**Other**
+Power Automate · Google Workspace · Pandas · NumPy
 
 ## Fun Facts
 -  Training for an Ironman — endurance mode ON  
