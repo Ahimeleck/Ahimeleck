@@ -6,7 +6,7 @@ Data Engineer focused on building automated data infrastructure and analytics sy
 ## Tech Stack
 
 **Data Engineering**
-Python · REST APIs · Google BigQuery · GitHub Actions · ETL Pipelines · OAuth 2.0
+Python · REST APIs · Google BigQuery · GitHub Actions · ETL Pipelines · OAuth 2.0 · DBT
 
 **Analytics & BI**  
 SQL · Tableau · Looker Studio · Power BI · DAX
